@@ -1,1 +1,1 @@
-# We are participating in the code exp hackathon.
+We are participating in the code exp hackathon.
